@@ -1,0 +1,28 @@
+								Open
+==============================================================================================================================================================================
+								  
+		exit/								Register/													Login  
+		
+==============================================================================================================================================================================
+
+		  									 username													username				
+		CLOSE								 password													password							
+											 employee/customer
+										check if user already exists
+											
+		
+==============================================================================================================================================================================
+
+																Home Page
+																																
+											Employee								Customer												System
+										
+									approve/reject account creation				apply for new bank account									rejects invalid input/data
+									view Customer Bank account					view balance of specific account
+									view log of all transactions				make withdrawl or deposit to specific account
+																				post money transfer
+																				accept money transfer
+																											
+==============================================================================================================================================================================
+																	
+																	
